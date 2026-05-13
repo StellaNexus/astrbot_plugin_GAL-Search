@@ -1,0 +1,12 @@
+# ============================================
+# TouchGal + Bangumi 插件配置文件
+# 请填写后放置在插件目录下
+# ============================================
+
+# TouchGal 登录 Cookie（必填，否则 /gal 不可用）
+# 从浏览器开发者工具获取，包含 cf_clearance 和 kun-galgame-patch-moe-token
+touchgal_cookie: ""
+
+# Bangumi API Key（必填，否则 /b 不可用）
+# 从 https://bangumi.tv/dev 申请
+bangumi_api_key: ""

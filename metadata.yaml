@@ -1,0 +1,7 @@
+name: astrbot_plugin_touchgal
+display_name: TouchGal+Bangumi
+description: |
+  从 touchgal.top 搜索 Galgame 资源，支持 Bangumi 游戏信息查询。
+  命令: /gal <名称> | /gal下载 <名称> | /b <名称>
+version: 1.3.0
+author: tddji
